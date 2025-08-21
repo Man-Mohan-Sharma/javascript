@@ -13,7 +13,7 @@ let isLogged = false
 // string => ""
 // boolean => true/false
 // null => standalone value
-// undefined => 
+// undefined => undefined
 // symbol => unique
 
 // object
