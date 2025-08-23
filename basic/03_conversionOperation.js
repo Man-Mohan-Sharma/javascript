@@ -37,4 +37,4 @@ console.log(+true); // will print 1
 console.log(+ "");   // will print 0
 
 let num1, num2, num3;
-num1 = num2 = num3 = 2+3
+num1 = num2 = num3 = 2+3;
